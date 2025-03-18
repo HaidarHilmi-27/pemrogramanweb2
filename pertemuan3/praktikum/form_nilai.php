@@ -118,5 +118,9 @@ if(isset($_nama)) {
 </div>
 
 <?php 
-    include_once 'bottom.php';
+    include_once 'daftar_nilai.php';
+?>
+
+<?php
+ include_once 'daftar_nilai.php';
 ?>
